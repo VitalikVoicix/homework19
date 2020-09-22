@@ -1,0 +1,47 @@
+.wrapper-photos{
+
+background-color:#A9D5B2 ;
+height: 500px;
+text-align: center;
+font-size:40px;
+}
+.toyota1{
+height: 260px;
+    width: 370px;
+    position: absolute;
+    left:30px
+}
+.photo1{
+    position:absolute;
+    width: 370px;
+    font-size:20px;
+    top:490px;
+    left:120px
+}
+.toyota2{
+    height: 260px;
+        width: 370px;
+        position: absolute;
+        right:630px
+    }
+    .photo2{
+        position:absolute;
+        width: 370px;
+        font-size:20px;
+        top:490px;
+        right:630px
+    }
+
+    .toyota3{
+        height: 260px;
+            width: 370px;
+            position: absolute;
+            right:235px
+        }
+        .photo3{
+            position:absolute;
+            width: 370px;
+            font-size:20px;
+            top:490px;
+            right:235px
+        }

@@ -1,0 +1,29 @@
+.main{
+    height: 610px;
+    width: 350px;
+    border:2px solid white;
+    border-radius: 25px;
+    margin:50px 40px 50px 580px;
+    position:relative;
+    background-color:#A9D5B2  ;
+    }
+    .input{
+        height: 30px;
+        width:210px;
+        border-radius:20px;
+        margin:10px auto 30px 55px;
+    
+    }
+    body{
+
+        background-color:#A9D5B2 
+
+    }
+    .head{
+position: absolute;
+top:40px;
+font-size: 15px;
+left:30px;
+font-weight: bolder;
+
+    }
